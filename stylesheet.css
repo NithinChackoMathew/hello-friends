@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+	font-family: Agency FB;
+	font-size: xx-large;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+h2 {
+	color: grey;
+	font-family: Agency FB;
+	text-align: center;
+	color: teal;
+	font-size: x-large;
+}
+
+h3 {
+	color: grey;
+	font-family: Agency FB;
+}
+
+p {
+	font-family: Candara;
+	font-size: 12;
+	color: grey;
+}
